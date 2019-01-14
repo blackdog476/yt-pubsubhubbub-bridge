@@ -1,0 +1,10 @@
+{
+  "name": "pubsubhubbub",
+  "version": "2.0",
+  "description": "PubSubHubbub bridge",
+  "main": "index.js",
+  "scripts": {},
+  "author": "blackdog476",
+  "license": "ISC",
+  "dependencies": {}
+}
